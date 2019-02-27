@@ -1,29 +1,11 @@
 # vue-movie-app
 
-## Project setup
-```
-npm install
-```
+Web app built with Vue & Vuex during DevMeeting Workshop "Vue.js" :sparkles:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Used technologies 
+- Vue
+- Vuex
+- Vuetify
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Many thanks to [DevMeetings.org](http://devmeetings.org/pl) :muscle: :fire:
